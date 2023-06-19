@@ -23,7 +23,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 👀 I’m interested in new tech, new threats, new Challenges
 - 🌱 I’m currently learning English and Golang.
 - 💞️ I'm looking to collaborate with other developers
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hoai10it)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoai10it)
 
 ---
 
